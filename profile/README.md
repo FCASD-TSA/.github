@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hello there 👋</h1>
+  <img src="http://blog.istmanagement.com/wp-content/uploads/2016/04/FCASD-Logo-300x300.png" height="=150" alt="Fox Chapel Logo">
+  <h1>Fox Chapel Area School District TSA Club</h1>
 </div>
 
 <!--
